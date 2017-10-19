@@ -1,6 +1,6 @@
 {
 	"name": "@alexreg/reindent",
-	"version": "0.1.0",
+	"version": "0.1.2",
 	"description": "Reindent all kinds of text files",
 	"author": "Alexander Regueiro <alex@noldorin.com>",
 	"keywords": [
