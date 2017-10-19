@@ -1,0 +1,21 @@
+{
+	"name": "@alexreg/reindent",
+	"version": "0.1.0",
+	"description": "Reindent all kinds of text files",
+	"author": "Alexander Regueiro <alex@noldorin.com>",
+	"keywords": [
+		"files",
+		"text",
+		"indentation",
+		"convert"
+	],
+	"license": "MIT",
+	"homepage": "https://github.com/alexreg/reindent",
+	"repository": "github:alexreg/reindent",
+	"main": "main.js",
+	"scripts": {},
+	"dependencies": {
+		"n-readlines": "^0.2.8",
+		"yargs": "^10.0.0"
+	}
+}
