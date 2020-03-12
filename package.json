@@ -16,6 +16,6 @@
 	"scripts": {},
 	"dependencies": {
 		"n-readlines": "^0.2.8",
-		"yargs": "^10.0.0"
+		"yargs": "^15.3.0"
 	}
 }
